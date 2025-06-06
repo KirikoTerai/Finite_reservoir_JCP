@@ -1,7 +1,7 @@
 import numpy as np
 import math
 import matplotlib.pyplot as plt
-from infinite_wide_functions import *
+from infinite_functions import *
 import sys
 
 # # Redirect stdout to save printed statements to a file
